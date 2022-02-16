@@ -6,7 +6,7 @@
 React
 React-query
 Typescript
-Styled component
+Styled components
 API
 ```
 ### Live
